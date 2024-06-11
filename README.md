@@ -1,4 +1,4 @@
-# Spotify Project Payed
+# Spotify Account Information Scraper
 
 This project uses Selenium and the Spotify API to retrieve information from your Spotify account.
 
